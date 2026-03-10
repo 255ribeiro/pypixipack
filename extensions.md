@@ -1,8 +1,4 @@
-# pypixipack README
-
-## Working with Markdown
-
-This extension just bundle a set of extension to be used in a python course
+# VS Code Extension Pack
 
 ## 🐍 Python
 
