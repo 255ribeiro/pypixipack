@@ -1,14 +1,20 @@
 {
   "name": "pypixipack",
   "displayName": "pypixipack",
-  "description": "A bundle of packages used in teaching pytho via pixi",
+  "description": "A bundle of packages used in teaching python via pixi",
+  "publisher": "255ribeiro",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/255ribeiro/pypixipack"
+  },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "./icon/python_red.ico",
   "extensionPack": [
     "github.copilot-chat",
     "ms-python.debugpy",
