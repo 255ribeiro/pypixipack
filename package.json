@@ -3,7 +3,7 @@
   "displayName": "pypixipack",
   "description": "A bundle of packages used in teaching python via pixi",
   "publisher": "255ribeiro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -14,7 +14,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "icon": "./icon/python_red.ico",
+  "icon": "./icon/py_suitecase.ico",
   "extensionPack": [
     "github.copilot-chat",
     "ms-python.debugpy",
@@ -29,6 +29,8 @@
     "renan-r-santos.pixi-code",
     "shd101wyy.markdown-preview-enhanced",
     "tamasfe.even-better-toml",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "julialight.julia-light",
+    "catppuccin.catppuccin-vsc"
   ]
 }
