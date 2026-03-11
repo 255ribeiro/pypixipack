@@ -3,7 +3,7 @@
   "displayName": "pypixipack",
   "description": "A bundle of packages used in teaching python via pixi",
   "publisher": "255ribeiro",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -23,6 +23,7 @@
     "ms-toolsai.jupyter",
     "ms-toolsai.datawrangler",
     "mechatroner.rainbow-csv",
+    "janisdd.vscode-edit-csv",
     "renan-r-santos.pixi-code",
     "shd101wyy.markdown-preview-enhanced",
     "tamasfe.even-better-toml",
