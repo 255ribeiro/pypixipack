@@ -3,7 +3,7 @@
   "displayName": "pypixipack",
   "description": "A bundle of packages used in teaching python via pixi",
   "publisher": "255ribeiro",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.100.0"
   },
