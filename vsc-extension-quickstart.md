@@ -19,3 +19,33 @@
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/api/working-with-extensions/publishing-extension about publishing an extension.
+
+## List extensios
+
+### List all
+
+```shell
+
+code --list-extensions > extensions.txt
+
+```
+### List packages in a certain profile
+
+```shell
+code --profile "<profile name>" --list-extensions
+```
+
+exampple:
+
+```shell
+code --profile "Python course" --list-extensions
+```
+
+## Make vsix package 
+
+```shell
+
+vsce package
+
+```
+
